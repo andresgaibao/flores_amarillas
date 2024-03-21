@@ -1025,8 +1025,8 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
       transform: scale(0.5);
     }
   
-    h1 {
-      font-size: 14px; /* Tamaño del título para dispositivos con un ancho máximo de 768px */
+    .titulo {
+      font-size: 10px; /* Tamaño del título para dispositivos con un ancho máximo de 768px */
     }
   }
   
