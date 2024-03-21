@@ -1034,7 +1034,7 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
     .flowers {
       transform: scale(0.8);
       position: absolute;
-      top: 600px;
+      top: 610px;
     }
   
     .titulo {
